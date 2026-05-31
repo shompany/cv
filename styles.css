@@ -1,0 +1,93 @@
+body{
+  background-color: rgba(181, 216, 219, 0.987);
+}
+.header {
+  text-align: center;
+  
+}
+.main{
+  text-align: center;
+}
+.mylogo{
+  width: 300px;
+}
+.header_title {
+
+}
+.header_subtitle {
+  
+}
+.main_skills {
+  margin-bottom: 10px;
+  padding: 10px;
+  /* text-align: center; */
+  border: 2px black solid ;
+  border-radius: 5px;
+  background-color: rgb(145, 196, 196);
+}
+.main_skills ol{
+  list-style: none;
+}
+.main_section {
+  margin-bottom: 10px;
+  padding: 10px;
+  border: 2px black solid;
+  border-radius: 5px;
+  /* text-align: center; */
+  background-color: rgb(145, 196, 196);
+}
+.main_gallery_img{
+  margin: 4px;
+}
+.main_video{
+  margin-bottom: 10px;
+  text-align: center;
+  
+}
+.main_video_iframe{
+  width: 640px;
+  height: 480px;
+}
+.main_hobby{
+  text-align: center;
+}
+.separation{
+  border: 4px rgb(36, 98, 98) solid ;
+  border-radius: 5px;
+}
+.form_control{
+  display: block;
+  margin: 0 auto;
+}
+.form input{
+  /* margin: 0 auto; */
+  border-radius: 5px;
+}
+.fieldset{
+  width: 70%;
+  margin: 0 auto;
+  margin-bottom: 15px;
+  border-color: black;
+  border-radius: 5px;
+  background-color:rgb(145, 196, 196);
+
+} 
+.fieldset_legend{
+  font-size: 24px;
+  font-weight: 600;
+
+}
+.form_questions{
+  border: 2px black solid;
+  border-radius: 5px;
+}
+.form_buttom{
+display: block;
+margin: 0 auto;
+}
+.address{
+  display: block;
+  width: 100px;
+  font-size: 24px;
+  margin: 0 auto;
+}
